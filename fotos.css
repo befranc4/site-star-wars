@@ -125,43 +125,10 @@ span{
         display: none;
     }
 
-    #banner {
-        background-position: 25%;
-        height: 250px;
-    }
-
-    #trailer-container {
-        width: 100%;
-        height: 400px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 70px;
-    }
-
     .content{
         width: 95%;
         display: flex;
         flex-direction: column;
-    }
-
-    .trailer{
-        width: 100%;
-    }
-
-    #sinopse{
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-
-    .description{
-        width: 100%;
-    }
-
-    .button{
-        width: 100%;
-        margin-top: 30px;
     }
 
     .cards-content{
